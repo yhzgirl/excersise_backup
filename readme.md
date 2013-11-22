@@ -1,7 +1,7 @@
 CONFERENCE TRACK MGR
 By: Michelle Brideau
 
-To run this code from within the thoughtworks dir run in the command line with:
+To run this code from within the app dir run in the command line with:
 
 ruby conferencemanager.rb test_input.txt
 
